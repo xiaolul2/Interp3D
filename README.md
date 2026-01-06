@@ -22,10 +22,15 @@
     <sup>*</sup>Corresponding Authors
 </div>
 
-we propose Interp3D, a training-free approach that instantiates the progressive alignment principle based on generative priors for textured 3D morphing. 
 
-<img src="assets/teaser.pdf" alt="Teaser" width="100%">
+
+<img src="assets/teaser.jpg" alt="Teaser" width="100%">
 </div>
+
+In this work, we propose Interp3D, a training-free approach that instantiates the progressive alignment principle based on generative priors for textured 3D morphing. 
+
+Code will be avaliable soon.
+
 
 ## BibTeX
 ```bibtex
