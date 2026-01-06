@@ -13,20 +13,22 @@
 </div>
 
 <div>
-    <sup>1</sup><strong>Zhejiang University</strong> &nbsp;&nbsp;
-    <sup>2</sup><strong>National University of Singapore</strong> &nbsp;&nbsp;
-    <sup>3</sup><strong>Nanjing University</strong>
+    <sup>1</sup>Zhejiang University &nbsp;&nbsp;
+    <sup>2</sup>National University of Singapore &nbsp;&nbsp;
+    <sup>3</sup>Nanjing University
 </div>
 
 <div>
-    <sup>*</sup><strong>Corresponding Authors</strong>
+    <sup>*</sup>Corresponding Authors
 </div>
 
+we propose Interp3D, a training-free approach that instantiates the progressive alignment principle based on generative priors for textured 3D morphing. 
 
-<img src="assets/teaser.png" alt="Teaser" width="100%">
+<img src="assets/teaser.pdf" alt="Teaser" width="100%">
 </div>
 
-
+## BibTeX
+```bibtex
 @article{liu2026interp3d,
   title={Interp3D: Correspondence-Aware Interpolation for Generative Textured 3D Morphing},
   author={Liu, Xiaolu and Li, Yicong and He, Qiyuan and Zhu, Jiayin and Ji, Wei and Yao, Angela and Zhu, Jianke},
