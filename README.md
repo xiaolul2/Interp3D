@@ -41,6 +41,7 @@ In this work, we propose Interp3D, a training-free approach that instantiates th
 ## 📦 Installation
 
 Clone the repo:
+
     ```sh
     git clone --recurse-submodules https://github.com/xialul2/Interp3D.git
     cd Interp3D
@@ -52,6 +53,7 @@ Following the installation steps in [TRELLIS](https://github.com/microsoft/TRELL
 ## 💡 Run the Code
 
 You can run the morphing process with the following command:
+
     ```sh
     python example_interp.py --exp_id ./example_cases
     ```
