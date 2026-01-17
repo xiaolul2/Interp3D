@@ -2,7 +2,6 @@
 
 # Interp3D: Correspondence-Aware Interpolation for Generative Textured 3D Morphing
 
-<br>
 
 <div>
     <strong>Xiaolu Liu</strong><sup>1,2</sup>,
@@ -14,7 +13,6 @@
     <strong>Jianke Zhu</strong><sup>1*</sup>
 </div>
 
-<br>
 
 <div>
     <sup>1</sup>Zhejiang University &nbsp;&nbsp;
@@ -27,22 +25,42 @@
 </div>
 
 <br>
-<br>
+[![ArXiv](https://img.shields.io/badge/ArXiv-2601.xxxxx-b31b1b.svg)](https://arxiv.org/pdf/2601.00204)
+[![Project Page](https://img.shields.io/badge/Project%20Page-Interp3D-Green.svg)](https://xiaolul2.github.io/Interp3D.github.io)
 
+<br>
 <img src="assets/teaser.jpg" alt="Teaser" width="100%">
 </div>
 
-<br>
-<br>
 
 In this work, we propose Interp3D, a training-free approach that instantiates the progressive alignment principle based on generative priors for textured 3D morphing. 
 
 <br>
 
-Code will be avaliable soon.
+<!-- Installation -->
+## 📦 Installation
 
+Clone the repo:
+    ```sh
+    git clone --recurse-submodules https://github.com/xialul2/Interp3D.git
+    cd Interp3D
+    ```
 
-## BibTeX
+Following the installation steps in [TRELLIS](https://github.com/microsoft/TRELLIS) for the installation command.
+
+<!-- Run the Coder -->
+## 💡 Run the Code
+
+You can run the morphing process with the following command:
+    ```sh
+    python example_interp.py --exp_id ./example_cases
+    ```
+
+<!-- Citation -->
+##  📜 Citation
+
+If you find this work helpful, please consider citing our paper:
+
 ```bibtex
 @article{liu2026interp3d,
   title={Interp3D: Correspondence-Aware Interpolation for Generative Textured 3D Morphing},
