@@ -25,7 +25,7 @@
 </div>
 
 <br>
-[Paper](https://arxiv.org/pdf/2601.00204)
+[Paper](https://arxiv.org/pdf/2601.00204)  
 [Website](https://xiaolul2.github.io/Interp3D.github.io)
 
 <br>
