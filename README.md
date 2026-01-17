@@ -25,8 +25,8 @@
 </div>
 
 <br>
-#[![ArXiv](https://img.shields.io/badge/ArXiv-2601.xxxxx-b31b1b.svg)](https://arxiv.org/pdf/2601.00204)
-#[![Project Page](https://img.shields.io/badge/Project%20Page-Interp3D-Green.svg)](https://xiaolul2.github.io/Interp3D.github.io)
+[Paper](https://arxiv.org/pdf/2601.00204)
+[Website](https://xiaolul2.github.io/Interp3D.github.io)
 
 <br>
 <img src="assets/teaser.jpg" alt="Teaser" width="100%">
