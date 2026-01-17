@@ -38,28 +38,34 @@ In this work, we propose Interp3D, a training-free approach that instantiates th
 <br>
 
 <!-- Installation -->
-## 📦 Installation
+## Installation
 
 Clone the repo:
 
-    ```sh
-    git clone --recurse-submodules https://github.com/xialul2/Interp3D.git
-    cd Interp3D
-    ```
+```sh
+git clone --recurse-submodules https://github.com/xialul2/Interp3D.git
+cd Interp3D
+```
 
 Following the installation steps in [TRELLIS](https://github.com/microsoft/TRELLIS) for the installation command.
 
 <!-- Run the Coder -->
-## 💡 Run the Code
+## Run the Code
 
 You can run the morphing process with the following command:
 
-    ```sh
-    python example_interp.py --exp_id ./example_cases
-    ```
+```sh
+python example_interp.py --exp_id ./example_cases
+```
+
+<!-- Run the Coder -->
+## Interp3DData
+
+To evaluate the effectiveness of our methods, we present Inter3DData, the benchmark dataset for assessing the generative texture 3D Morphing . YOu can download the dataset from [Google Drive](https://drive.google.com/file/d/1Y-J_7KwEk8VFy_v19cF3wCgbTW8Pqff0/view?usp=sharing)
+
 
 <!-- Citation -->
-##  📜 Citation
+##  Citation
 
 If you find this work helpful, please consider citing our paper:
 
@@ -70,3 +76,4 @@ If you find this work helpful, please consider citing our paper:
   journal={arXiv preprint arXiv:XXXX.XXXXX},
   year={2026}
 }
+```
