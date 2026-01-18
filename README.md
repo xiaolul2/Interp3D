@@ -62,7 +62,7 @@ python example_interp.py --exp_id ./example_cases
 <!-- Run the Coder -->
 ## Interp3DData
 
-To evaluate the effectiveness of our methods, we present Inter3DData, the benchmark dataset for assessing the generative texture 3D Morphing . You can download the dataset from [Google Drive](https://drive.google.com/file/d/1Y-J_7KwEk8VFy_v19cF3wCgbTW8Pqff0/view?usp=sharing)
+To evaluate the effectiveness of our methods, we present Inter3DData, the benchmark dataset for assessing the generative texture 3D Morphing . You can download the dataset from [Google Drive](https://drive.google.com/file/d/1Y-J_7KwEk8VFy_v19cF3wCgbTW8Pqff0/view?usp=sharing).
 
 
 <!-- Citation -->
