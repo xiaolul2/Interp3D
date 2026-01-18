@@ -27,7 +27,7 @@
 <br>
 <p align="center">
 <a href="https://arxiv.org/pdf/2601.00204"><img src='https://img.shields.io/badge/arXiv-Paper-red?logo=arxiv&logoColor=white' alt='arXiv'></a>
-<a href='https://xiaolul2/Interp3D.github.io'><img src='https://img.shields.io/badge/Project_Page-Website-green?logo=googlechrome&logoColor=white' alt='Project Page'></a>
+<a href='https://interp3d.github.io'><img src='https://img.shields.io/badge/Project_Page-Website-green?logo=googlechrome&logoColor=white' alt='Project Page'></a>
 </p>
 
 <br>
