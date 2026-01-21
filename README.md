@@ -61,7 +61,7 @@ Following the command in [TRELLIS](https://github.com/microsoft/TRELLIS) for the
 You can run the morphing process with the following command:
 
 ```sh
-python example_interp.py --exp_id ./example_cases
+python example_interp.py --exp_id ./web_cases
 ```
 
 <!-- Run the Coder -->
