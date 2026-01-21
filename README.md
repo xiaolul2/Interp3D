@@ -20,7 +20,7 @@
     <sup>3</sup>Nanjing University
 </div>
 <div style="margin-top:4px;">
-    <sup>4</sup>State Key Lab of CAD &amp; CG, Zhejiang University<br>
+    <sup>4</sup>State Key Lab of CAD &amp; CG, Zhejiang University &nbsp;&nbsp;
     <sup>5</sup>Shenzhen Loop Area Institute
 </div>
 
