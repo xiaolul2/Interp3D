@@ -10,7 +10,7 @@
     <strong>Jiayin Zhu</strong><sup>2</sup>,
     <strong>Wei Ji</strong><sup>3</sup>,
     <strong>Angela Yao</strong><sup>2</sup>,
-    <strong>Jianke Zhu</strong><sup>1*</sup>
+    <strong>Jianke Zhu</strong><sup>1,4,5*</sup>
 </div>
 
 
@@ -19,6 +19,11 @@
     <sup>2</sup>National University of Singapore &nbsp;&nbsp;
     <sup>3</sup>Nanjing University
 </div>
+<div style="margin-top:4px;">
+    <sup>4</sup>State Key Lab of CAD &amp; CG, Zhejiang University<br>
+    <sup>5</sup>Shenzhen Loop Area Institute
+</div>
+
 
 <div>
     <sup>*</sup>Corresponding Authors
